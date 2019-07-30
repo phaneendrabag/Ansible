@@ -1,0 +1,13 @@
+---
+- hosts: all
+  become: yes
+  tasks:
+   - name: this is pinging
+     ping:
+
+
+   - name: i am going install tree
+     apt:
+      
+      name: tree
+      state: present

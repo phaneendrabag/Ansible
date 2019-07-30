@@ -1,0 +1,16 @@
+---
+- studentDetails:
+    - name: phanee
+      phno: 9398657227
+      Address: KPHB
+    
+    - name: kiran
+      phno: 7702067155
+      Address: Gachibowli
+
+    - name: venkatesh
+      phno: 8143558658
+      Address: Ameerpet
+      
+
+
